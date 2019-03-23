@@ -1,4 +1,4 @@
-#Evolutionary Game Theory
+# Evolutionary Game Theory
 
 A lot of this work was done using the EGTPlot package from the Cleveland Clinic. 
 
